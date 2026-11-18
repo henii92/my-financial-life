@@ -1,0 +1,17 @@
+{
+  "name": "My Financial Life V4.0",
+  "short_name": "My Finance",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#142b4a",
+  "description": "Pengelola keuangan pribadi dalam Rupiah",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
