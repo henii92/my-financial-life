@@ -1,7 +1,7 @@
 {
   "name": "My Financial Life",
   "short_name": "MyFinance",
-  "description": "Pengelola keuangan pribadi",
+  "description": "Pengelola keuangan pribadi / Personal finance manager",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
