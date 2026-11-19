@@ -1,0 +1,2 @@
+Tambahan V4.6: logo dompet di atas pilihan PIN/biometrik ditampilkan tanpa bingkai, sudut membulat, latar, atau bayangan CSS. Ikon PIN dan sidik jari tetap lebih kecil. Fitur dan penyimpanan aplikasi tetap dipertahankan.
+Upload semua file ke root repository GitHub, timpa file yang sama, commit dan tunggu GitHub Actions hijau. Ekspor backup JSON terlebih dahulu. Jangan hapus data browser atau uninstall aplikasi.
